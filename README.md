@@ -4,10 +4,10 @@
 
 Engenharia da Computação - 9º semestre
 
-Integrates do grupo:
+Integrantes do grupo:
 - Ana Paula dos Santos Souza - RA: 20894639
   
-- Alezandre Ban de Lima - RA:20878290
+- Alexandre Ban de Lima - RA:20878290
   
 - Igor Castro Santilli - RA: 20909361
   
