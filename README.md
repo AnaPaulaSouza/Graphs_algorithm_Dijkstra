@@ -1,9 +1,6 @@
 # Graphs_algorithm_Dijkstra
 
-**Introdução à Teoria dos Grafos:**
-
-***Atividade Prática***
-
+**Introdução à Teoria dos Grafos:** ***Atividade Prática***
 
 Engenharia da Computação - 9º semestre
 
