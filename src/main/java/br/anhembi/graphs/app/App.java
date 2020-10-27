@@ -32,15 +32,15 @@ public class App {
             }
 
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("Arquivo não encontrado");
         } catch (LabelDoesNotExistException e) {
-            e.printStackTrace();
+            System.out.println("Nome do nó não declarado");
         } catch (InvalidSourceNodeLabelException e) {
-            e.printStackTrace();
+            System.out.println("Nó de origem invalido");
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Error");
         } catch (IllegalArgumentException e) {
-            e.printStackTrace();
+            System.out.println("Argumento invalido");
         }
     }
 }
