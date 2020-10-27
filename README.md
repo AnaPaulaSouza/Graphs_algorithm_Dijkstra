@@ -4,6 +4,9 @@
 
 ***Atividade Prática***
 
+
+Engenharia da Computação - 9º semestre
+
 Integrates do grupo:
 - Ana Paula dos Santos Souza - RA: 20894639
   
@@ -11,6 +14,6 @@ Integrates do grupo:
   
 - Igor Castro Santilli - RA: 20909361
   
-- Daniel Dasaev - RA: 
+- Daniel Dasaev Garcia Silva - RA: 20966723
   
-- Leonardo Matheus - RA:
+- Leonardo Matheus Silva Balbino - RA: 20613520
