@@ -5,17 +5,12 @@
 ***Atividade Prática***
 
 Integrates do grupo:
-- Ana Paula dos Santos Souza
-  RA: 20894639
+- Ana Paula dos Santos Souza - RA: 20894639
   
-- Alezandre Ban de Lima
-  RA:20878290
+- Alezandre Ban de Lima - RA:20878290
   
-- Igor Castro Santilli 
-  RA: 20909361
+- Igor Castro Santilli - RA: 20909361
   
-- Daniel Dasaev
-  RA: 
+- Daniel Dasaev - RA: 
   
-- Leonardo Matheus 
-  RA:
+- Leonardo Matheus - RA:
